@@ -1,138 +1,83 @@
-<!--
-✨ GitHub Profile README for @hackeradhii
--->
+<!-- ✨ GitHub Profile README for @hackeradhii -->
 
 <h1 align="center">Hi, I'm Adithya S. Arangil 👋</h1>
-<h3 align="center">AI Developer • Deep Learning Researcher • Real-time AI Agents</h3>
+<h3 align="center">AI Developer • Deep Learning Researcher • Real-time AI Agents (Voice + RAG)</h3>
 
 <p align="center">
-  <a href="mailto:adithyasarangil2024@gmail.com"><img src="https://img.shields.io/badge/Email-adithyasarangil2024%40gmail.com-informational?style=flat&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Kochi%2C%20India-success?style=flat&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Username-hackeradhii-blue?style=flat&logo=github&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=hackeradhii&style=flat&color=blue" />
+  <a href="mailto:adithyasarangil2024@gmail.com">
+    <img src="https://img.shields.io/badge/Email-adithyasarangil2024%40gmail.com-0f172a?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Kochi%2C%20India-0f172a?style=flat&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-hackeradhii-0f172a?style=flat&logo=github&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=hackeradhii&style=flat&color=0f172a" />
 </p>
 
 ---
 
 ## ⚡ About Me
 
-I’m **Adhii** — a Machine Learning & Deep Learning researcher turned **production AI developer**, building real-world systems across:
+I’m **Adhii** — an AI developer who loves turning **research → prototypes → production systems**.
 
-✅ **AI Agents (Voice + Chat)**  
-✅ **Deep Learning Research (CV / Seq Models / Cybersecurity ML)**  
-✅ **LLM Adaptation (Malayalam + English)**  
-✅ **MLOps-first delivery (evaluation, CI/CD, observability, reproducibility)**
-
-I love shipping things that go from **research → prototype → production**, with clean docs and measurable performance.
+I build:
+- 🧠 Deep learning models (CV + sequence learning + security ML)
+- 🎧 Real-time voice agents + automations (call flows, routing, analytics)
+- 🤖 RAG & LLM adaptation (Malayalam + English)
+- 🚀 Fast, deployable AI systems (clean engineering + evaluation-first)
 
 ---
 
-## 🔥 What I’m Building Right Now
+## 🧰 My Tech Stack
 
-- 🎧 **Real-time voice agents** using Twilio + n8n (ASR ↔ TTS pipelines, analytics, routing, privacy-aware logging)
-- 🧠 **LLM adaptation (Malayalam/English)**: SentencePiece + LoRA/QLoRA + RAG
-- 🛡️ **Cybersecurity ML systems** (sequence + transformer-based detection pipelines)
-- 🚀 **Fast, deployable ML stacks** optimized for constrained GPUs
+### current go-to tech stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-0f172a?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-0f172a?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-0f172a?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-0f172a?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-0f172a?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-0f172a?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0f172a?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-0f172a?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-0f172a?style=flat&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twilio-0f172a?style=flat&logo=twilio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0f172a?style=flat&logo=visualstudiocode&logoColor=white" />
+</p>
+
+### sometimes also use
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-0f172a?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-0f172a?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-0f172a?style=flat&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-0f172a?style=flat&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-0f172a?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo_(React_Native)-0f172a?style=flat&logo=expo&logoColor=white" />
+</p>
+
+### used to use, were nice, but abandoned
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-0f172a?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-0f172a?style=flat&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-0f172a?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0f172a?style=flat&logo=windows&logoColor=white" />
+</p>
 
 ---
 
 ## 🧩 Featured Projects
 
 ### 🛡️ TCN + BiGRU Malware Detection (Sequence Learning)
-🔹 Temporal Convolutional Network + BiGRU model for API-call malware classification  
-📌 Repo: **Tcn-bigru-sequence-classifier**
+**Temporal Convolutional Network + BiGRU** model for malware detection using API-call sequences.
 
-**Highlights**
-- API-call sequence preprocessing → deep sequence model → strong classification performance
-- Built for research-grade evaluation + reproducibility
+### 🐟 ViT + VGG16 Fish Species Classifier (Computer Vision)
+Hybrid **Vision Transformer + VGG16** model for multi-class fish image classification.
 
----
-
-### 🐟 Vision Transformer + VGG16 Fish Species Classifier (Computer Vision)
-🔹 Hybrid ViT + VGG16 architecture for fish species classification  
-📌 Repo: **Fish-Species-Classifier**
-
-**Highlights**
-- Transformer-based global features + CNN feature extraction
-- Built with strong evaluation metrics + class-wise performance analysis
-
----
-
-### 🧠 Multi-Expert Click Fraud Detector (Privacy Preserving ML)
-🔹 TensorFlow multi-expert model + Differential Privacy training  
-📌 Repo: **multi-expert-click-detector**
-
-**Highlights**
-- Separate expert pathways: numerical + categorical + temporal
-- Privacy-preserving training via DP-SGD approach
-
----
-
-## 🛠️ Tech Stack
-
-### 🧠 AI / ML
-![Python](https://img.shields.io/badge/Python-111827?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-111827?style=flat&logo=keras&logoColor=white)
-
-### 🤖 LLM + Agents
-![RAG](https://img.shields.io/badge/RAG-0f172a?style=flat)
-![LoRA](https://img.shields.io/badge/LoRA-0f172a?style=flat)
-![QLoRA](https://img.shields.io/badge/QLoRA-0f172a?style=flat)
-![SentencePiece](https://img.shields.io/badge/SentencePiece-0f172a?style=flat)
-
-### 🔧 Backend / MLOps
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111827?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111827?style=flat&logo=git&logoColor=white)
-
-### 🎛️ Automations / Voice Systems
-![n8n](https://img.shields.io/badge/n8n-111827?style=flat&logo=n8n&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-111827?style=flat&logo=twilio&logoColor=white)
-
-### ☕ Software Engineering
-![Java](https://img.shields.io/badge/Java-111827?style=flat&logo=java&logoColor=white)
-
----
-
-## 🧭 Experience
-
-### 🏢 AI Developer — Nxl Technologies (Jun 2025 – Present)
-- Production-grade AI agents & ML systems for healthcare, education/government, SMEs  
-- Bilingual solutions (Malayalam/English)
-- Real-time voice agents: Twilio + n8n + ASR/TTS pipelines
-- LLM adaptation + RAG systems + streaming optimizations
-- Strong MLOps: CI/CD, evaluation harness, versioning, observability
-
----
-
-### 🧪 ML/DL Researcher — Freelance (2023 – 2025)
-- Built and optimized **10+ custom ML/DL models**
-- Faster training via strong preprocessing + tuning workflows
-- Research writing + formatting support for publications
-
----
-
-### ☁️ AI/ML Intern — Microsoft & Edunet Foundation (Apr 2025 – May 2025)
-- Computer Vision + NLP + Generative AI practice
-- Malware detection capstone model (Azure + ML workflows)
-
----
-
-## 🏆 Highlights (The “Numbers That Matter”)
-
-- ✅ Built & optimized **10+ ML/DL models**
-- ✅ Strong real-world ML delivery across **multiple domains**
-- ✅ Voice agents with analytics + routing + privacy-aware systems
-- ✅ Model optimization mindset (efficiency + deployment)
-
----
-
-## 📚 Education
-
-🎓 MCA — Amrita Vishwa Vidyapeetham (Kochi)  
-🎓 BCA — Amrita Vishwa Vidyapeetham (Amritapuri, Kollam)
+### 🧠 Multi-Expert Click Fraud Detector (Privacy-Aware ML)
+Multi-expert architecture with **DP training** for click fraud detection pipelines.
 
 ---
 
@@ -148,9 +93,7 @@ I love shipping things that go from **research → prototype → production**, w
 ## 🤝 Let’s Connect
 
 📩 **Email:** adithyasarangil2024@gmail.com  
-🧠 **Open to:** AI agent builds • ML research collabs • Applied AI for real businesses
-
----
+🧠 **Open to:** AI Agents • ML Research • Applied AI for real businesses
 
 <p align="center">
   <i>“Research is cool. Shipping is cooler.”</i> 🚀
