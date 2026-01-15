@@ -46,13 +46,13 @@ I build:
 ### sometimes also use
 
 <p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-0f172a?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-0f172a?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-0f172a?style=flat&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-0f172a?style=flat&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-0f172a?style=flat&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expo_(React_Native)-0f172a?style=flat&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
 </p>
 
 ### used to use, were nice, but abandoned
