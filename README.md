@@ -8,7 +8,6 @@
     <img src="https://img.shields.io/badge/Email-adithyasarangil2024%40gmail.com-0f172a?style=flat&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Location-Kochi%2C%20India-0f172a?style=flat&logo=googlemaps&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=hackeradhii&style=flat&color=0f172a" />
 </p>
 
 ---
