@@ -28,19 +28,20 @@ I build:
 ### current go-to tech stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-0f172a?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-0f172a?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-0f172a?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-0f172a?style=flat&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-0f172a?style=flat&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-0f172a?style=flat&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-0f172a?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-0f172a?style=flat&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-0f172a?style=flat&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Twilio-0f172a?style=flat&logo=twilio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0f172a?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 </p>
+
 
 ### sometimes also use
 
