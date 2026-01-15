@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center">Hi, I'm Adithya S. Arangil 👋</h1>
-<h3 align="center">AI Developer • Deep Learning Researcher • Real-time AI Agents (Voice + RAG)</h3>
+<h3 align="center">AI Developer • Deep Learning Researcher • Real-time AI Agents</h3>
 
 <p align="center">
   <a href="mailto:adithyasarangil2024@gmail.com"><img src="https://img.shields.io/badge/Email-adithyasarangil2024%40gmail.com-informational?style=flat&logo=gmail&logoColor=white" /></a>
