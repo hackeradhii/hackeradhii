@@ -16,6 +16,20 @@
   </a>
 </p>
 
+## 🚀 Featured Builds
+
+🔹 **TCN + BiGRU Malware Detection**  
+Repo: `Tcn-bigru-sequence-classifier`  
+→ Sequence learning for API-call malware classification.
+
+🔹 **ViT + VGG16 Fish Species Classifier**  
+Repo: `Fish-Species-Classifier`  
+→ Hybrid vision model for fine-grained classification.
+
+🔹 **Multi-Expert Click Fraud Detector (DP Training)**  
+Repo: `multi-expert-click-detector`  
+→ Multi-expert architecture with privacy-preserving training.
+
 <p align="center">
   <a href="mailto:adithyasarangil2024@gmail.com">
     <img src="https://img.shields.io/badge/Email-adithyasarangil2024%40gmail.com-0f172a?style=flat&logo=gmail&logoColor=white" /></a>
