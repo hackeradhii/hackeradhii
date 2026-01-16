@@ -1,6 +1,4 @@
 ![Adithya s Banner](https://github.com/hackeradhii/hackeradhii/blob/main/adhi.jpg)
-my current profile  readme.md looks like this 
-
 <!-- ✨ GitHub Profile README for @hackeradhii -->
 
 <h1 align="center">Hi, I'm Adithya S. Arangil 👋</h1>
