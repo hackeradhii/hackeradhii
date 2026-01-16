@@ -10,6 +10,12 @@
 </p>
 
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,react,nextjs,tailwind,redis,postgres,docker,githubactions,vscode&theme=dark" />
+  </a>
+</p>
+
 <p align="center">
   <a href="mailto:adithyasarangil2024@gmail.com">
     <img src="https://img.shields.io/badge/Email-adithyasarangil2024%40gmail.com-0f172a?style=flat&logo=gmail&logoColor=white" /></a>
