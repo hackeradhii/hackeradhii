@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Location-Kochi%2C%20India-0f172a?style=flat&logo=googlemaps&logoColor=white" />
 </p>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
 
 
 ## ⚡ About Me
