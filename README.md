@@ -5,7 +5,9 @@
   <h3 align="center">AI Developer • Deep Learning Researcher • Real-time AI Agents (Voice + RAG)</h3>
 </p>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+Developer;Deep+Learning+Researcher;Voice+Agents+%2B+RAG+Systems;FastAPI+%2B+React+Builder" />
+</p>
 
 
 <p align="center">
