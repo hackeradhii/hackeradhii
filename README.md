@@ -10,10 +10,12 @@
   <img src="https://img.shields.io/badge/Location-Kochi%2C%20India-0f172a?style=flat&logo=googlemaps&logoColor=white" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-## ⚡ About Me
+## <picture><img src = "https://github.com/hackeradhii/hackeradhii/blob/main/about_me.gif?raw=true" width = 30px></picture> About me
 
 I’m **Adhii** — an AI developer who loves turning **research → prototypes → production systems**.
 
