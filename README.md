@@ -1,7 +1,7 @@
 ![Adithya s Banner](https://github.com/hackeradhii/hackeradhii/blob/main/adhi.jpg)
 <!-- ✨ GitHub Profile README for @hackeradhii -->
 
-<h1 align="center">Hi, I'm Adithya S. Arangil 👋</h1>
+<h1 align="center">Hi, I'm Adithya S.👋</h1>
 <h3 align="center">AI Developer • Deep Learning Researcher • Real-time AI Agents (Voice + RAG)</h3>
 
 <p align="center">
