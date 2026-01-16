@@ -1,7 +1,7 @@
 <!-- ✨ GitHub Profile README for @hackeradhii -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=>Hi, I'm Adhii%20%F0%9F%91%8B&fontSize=60&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=>HiI'm Adhii%20%F0%9F%91%8B&fontSize=60&fontColor=ffffff" />
   <h3 align="center">AI Developer • Deep Learning Researcher • Real-time AI Agents (Voice + RAG)</h3>
 </p>
 
