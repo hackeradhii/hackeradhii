@@ -10,25 +10,21 @@
 </p>
 
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,react,nextjs,tailwind,redis,postgres,docker,githubactions,vscode&theme=dark" />
-  </a>
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hackeradhii&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackeradhii&layout=compact&theme=tokyonight" />
 </p>
 
-## 🚀 Featured Builds
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=hackeradhii&theme=tokyonight" />
+</p>
 
-🔹 **TCN + BiGRU Malware Detection**  
-Repo: `Tcn-bigru-sequence-classifier`  
-→ Sequence learning for API-call malware classification.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hackeradhii&theme=tokyo-night" />
+</p>
 
-🔹 **ViT + VGG16 Fish Species Classifier**  
-Repo: `Fish-Species-Classifier`  
-→ Hybrid vision model for fine-grained classification.
-
-🔹 **Multi-Expert Click Fraud Detector (DP Training)**  
-Repo: `multi-expert-click-detector`  
-→ Multi-expert architecture with privacy-preserving training.
 
 <p align="center">
   <a href="mailto:adithyasarangil2024@gmail.com">
